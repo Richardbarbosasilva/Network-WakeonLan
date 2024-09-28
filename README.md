@@ -17,3 +17,7 @@ This project has the objective of showing how many pcs are active and inactive o
 
 ![alt text](https://github.com/Richardbarbosasilva/Network-WakeonLan/blob/main/Screenshot_6.png)
 
+# InfluxDB v2.0 telegraf collect local hardware info
+
+![alt text](https://github.com/Richardbarbosasilva/Network-WakeonLan/blob/main/3a02b0499fe8d39401ce3991f68f3150.png)
+
