@@ -19,5 +19,10 @@ This project has the objective of showing how many pcs are active and inactive o
 
 # InfluxDB v2.0 telegraf collect local hardware info
 
+![alt text](https://github.com/Richardbarbosasilva/Network-WakeonLan/blob/main/b0ac50a7fd25feccfacda7b2f0386a56.png)
+
+# Integration InfluxDB v2.0 to grafana locally
+
 ![alt text](https://github.com/Richardbarbosasilva/Network-WakeonLan/blob/main/3a02b0499fe8d39401ce3991f68f3150.png)
+
 
